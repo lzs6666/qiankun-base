@@ -24,3 +24,4 @@ registerMicroApps([
 ]);
 // 启动 qiankun
 start();
+//测试一下提交功能
